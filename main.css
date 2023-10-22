@@ -1,0 +1,16 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #111827;
+}
+header {
+  background-color: #111827;
+}
+#box {
+  width: 1747px;
+  padding: 20px;
+  border: 2px solid #ffff;
+  border-radius: 16px;
+}
+#Search {
+  width: 1642px;
+}
